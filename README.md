@@ -7,9 +7,7 @@ This is a command-line Pomodoro Timer written in C. The Pomodoro Technique is a 
 - Customizable work and break durations.
 - Dynamic countdown display.
 - Timer expiration notification.
-- Support for pausing the timer using the spacebar.
-- Support for manually ending the timer using Ctrl+C.
-- ASCII art display.
+
 
 ## Getting Started
 
@@ -40,3 +38,9 @@ Feel free to contribute to this project by submitting issues or pull requests.
 ## Acknowledgments
 
 - The Pomodoro Technique: [https://en.wikipedia.org/wiki/Pomodoro_Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique
+
+## Future Features
+
+- Support for pausing the timer using the spacebar.
+- Support for manually ending the timer using Ctrl+C.
+- ASCII art display.
